@@ -33,7 +33,7 @@ ORDER BY total_files DESC;
 During the project, I encountered duplicate records caused by rerunning INSERT statements multiple times. This helped me understand the importance of data validation, query testing, and troubleshooting aggregation issues in operational datasets.
 
 ## Screenshots
-Included in the screenshots folder.
+Included in the documentation file.
 
 ## Author
 Bernadette G. Semira
